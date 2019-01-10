@@ -1,0 +1,457 @@
+{
+  "nombres": "Antonio",
+  "apellidos": "Salas Huanca",
+  "secciones": [
+    {
+      "titulo": "Información Personal",
+      "value": [
+        {
+          "orden": 1,
+          "label": "dirección",
+          "value": "Nuevo Ilo Mz 1 Lt 12"
+        },
+        {
+          "orden": 2,
+          "label": "ciudad",
+          "value": "Ilo"
+        },
+        {
+          "orden": 3,
+          "label": "region",
+          "value": "Moquegua"
+        },
+        {
+          "orden": 4,
+          "label": "pais",
+          "value": "Perú"
+        },
+        {
+          "orden": 5,
+          "label": "telefono",
+          "value": [
+            "953677714"
+          ]
+        },
+        {
+          "orden": 6,
+          "label": "email",
+          "value": [
+            "antony.salas@gmail.com"
+          ]
+        },
+        {
+          "orden": 7,
+          "label": "dni",
+          "value": "43177406"
+        },
+        {
+          "orden": 8,
+          "label": "web",
+          "value": [
+            "www.hynotech.com"
+          ]
+        }
+      ],
+      "tipo": "diccionario_label"
+    },
+    {
+      "titulo": "Objetivos",
+      "tipo": "texto",
+      "value": "Poder encontrar una oportunidad laboral en la que pueda demostrar mis habilidades, destrezas, personalidad y mi capacidad de trabajar en equipo para lograr un objetivo común.\nMi meta no es solo de conseguir un trabajo, sino también la que alcanzar una posición que me permita crecer laboralmente.\n"
+    },
+    {
+      "titulo": "Empleo Deseado",
+      "tipo": "lista",
+      "value": [
+        "Desarrollador de aplicaciones",
+        "Desarrollo de aplicaciones WEB",
+        "Administrador de Base de Datos",
+        "Soporte Informático onsite / online",
+        "Encargado de laboratorio de Informática",
+        "Asistente de gestión de DATA,",
+        "Operador Informatico"
+      ]
+    },
+    {
+      "titulo": "Conocimientos",
+      "tipo": "lista",
+      "value": [
+        "Conocimientos Avanzados de Paquete OFFICE (2003 – 2016)",
+        "Diseño grafico Publicitario (Corel Draw, Illustrator, Photoshop).",
+        "Desarrollo Web (JQuery, CSS3, HTML5, Bootstrap)",
+        "Programación en PHP.",
+        "Conocimientos de MySQL, SQLServer, PostgreSQL.",
+        "Uso de framework LARAVEL",
+        "Uso de framework CodeIgniter",
+        "CMS Wordpress (Desarrollo de Plugin)",
+        "Desarrollo de aplicaciones en Visual Studio .NET (C#, VB net, ASP.NET)",
+        "Conocimientos Avanzados de Sistemas Operativos Windows y Windows Server",
+        "Conocimientos Avanzados de MAC OSx",
+        "Conocimientos Intermedios de Linux (OpenSuse, Ubuntu)"
+      ]
+    },
+    {
+      "titulo": "Logros",
+      "tipo": "diccionario",
+      "value": [
+        {
+          "none": "Beca de pasantia Universidad de Buenos Aires - Argentina",
+          "institucion": "Universidad Nacional de Moquegua",
+          "anio": 2018,
+          "fechas": "2018"
+        },
+        {
+          "none": "Beca de Intercambio REDISUR",
+          "institucion": "Universidad Nacional de Moquegua",
+          "anio": 2017,
+          "fechas": "2017"
+        },
+        {
+          "none": "Quinto Superior",
+          "institucion": "Universidad Nacional de Moquegua",
+          "anio": 2018,
+          "fechas": "2014 - 2018"
+        },
+        {
+          "none": "Primer Puesto en rendimiento academico - IX Ciclo",
+          "institucion": "Universidad Nacional de Moquegua",
+          "anio": 2018,
+          "fechas": "Diciembre 2018"
+        },
+        {
+          "none": "Primer Puesto en rendimiento academico - V Ciclo",
+          "institucion": "Universidad Nacional de Moquegua",
+          "anio": 2016,
+          "fechas": "Diciembre 2016"
+        },
+        {
+          "none": "Segundo Lugar - Concurso de Programacion",
+          "institucion": "Universidad Nacional de Moquegua",
+          "anio": 2014,
+          "fechas": "Noviembre 2014"
+        },
+        {
+          "none": "Primer Puesto en rendimiento academico - I Ciclo",
+          "institucion": "Universidad Nacional de Moquegua",
+          "anio": 2014,
+          "fechas": "Agosto 2014"
+        }
+      ]
+    },
+    {
+      "titulo": "Experiencia Laboral",
+      "campos": [],
+      "tipo": "diccionario",
+      "value": [
+        {
+          "f_inicio": "01-02-16",
+          "f_fin": "05-30-16",
+          "cargo": "Desarrollo y mantenimiento de Sistemas Informaticos",
+          "empresa": "Proyectec EIRL"
+        },
+        {
+          "f_inicio": "01-02-15",
+          "f_fin": "12-01-16",
+          "cargo": "Desarrollo y mantenimiento de Sistemas Informaticos",
+          "empresa": "OK Computer EIRL"
+        },
+        {
+          "f_inicio": "06-01-13",
+          "f_fin": "12-31-14",
+          "cargo": "Desarrollo de Software",
+          "empresa": "OK Computer EIRL",
+          "habilitado": false
+        },
+        {
+          "f_inicio": "02-20-10",
+          "f_fin": "02-20-12",
+          "cargo": "Desarrollo web y Sistemas Informaticos",
+          "empresa": "OK Computer EIRL"
+        },
+        {
+          "f_inicio": "03-02-09",
+          "f_fin": "05-31-09",
+          "cargo": "Practicante de Logistica",
+          "empresa": "Southern Perú Cooper Corporation"
+        },
+        {
+          "f_inicio": "12-12-06",
+          "f_fin": "07-06-07",
+          "cargo": "Soporte Tecnico",
+          "empresa": "OK Computer EIRL"
+        }
+      ]
+    },
+    {
+      "titulo": "Capacitaciones Adicionales",
+      "campos": [],
+      "tipo": "diccionario",
+      "value": [
+        {
+          "anio": 2015,
+          "fechas": "Noviembre 2015",
+          "certificacion": "Soy Profesor SMART",
+          "capacitador": "SMART Technologies"
+        },
+        {
+          "anio": 2014,
+          "fechas": "Junio 2014",
+          "certificacion": "Inglés Básico",
+          "capacitador": "Universidad Nacional de Moquegua"
+        },
+        {
+          "anio": 2014,
+          "fechas": "Marzo 2014",
+          "certificacion": "Auxiliar de Ventas y Atención al Cliente",
+          "capacitador": "Universidad Nacional de San Agustín"
+        },
+        {
+          "anio": 2002,
+          "fechas": "Julio 2002",
+          "certificacion": "Formación Básica – Mecánica de Mantenimiento",
+          "capacitador": "SENATI"
+        }
+      ]
+    },
+    {
+      "titulo": "Ponencias",
+      "campos": [],
+      "tipo": "diccionario",
+      "value": [
+        {
+          "evento": "XIV Festival Latinoamericano de Instalacion de Software Libre - FLISOL 2018",
+          "fecha": "may-18",
+          "mes": 4,
+          "anio": 2018,
+          "organizador": "Universidad Nacional de Moquegua\nEscuela Profesional de Ingenieria de Sistemas e Informatica\nGrupo de Usuarios Linux - Ilo",
+          "ciudad": "Ilo",
+          "pais": "Perú",
+          "cargo": "Ponente"
+        },
+        {
+          "evento": "Curso Taller de Programacion PHP desde CERO",
+          "fecha": "may-17",
+          "mes": 7,
+          "anio": 2017,
+          "organizador": "Universidad Tecnol�gica de los Andes\nEscuela Profesional de Ingenieria de Sistemas e Informatica",
+          "ciudad": "Abancay",
+          "pais": "Perú",
+          "cargo": "Ponente"
+        },
+        {
+          "evento": "Seminario Tecnologias de la Informacion Emergentes en Negocios Inteligentes",
+          "fecha": "jun-10",
+          "mes": 5,
+          "anio": 2010,
+          "organizador": "Universidad Nacional de Moquegua\nEscuela Profesional de Ingenieria de Sistemas e Informatica",
+          "ciudad": "Ilo",
+          "pais": "Perú",
+          "cargo": "Ponente"
+        },
+        {
+          "evento": "I Jornada Tecnologica de Instalacion y Aplicaci�n de Software Libre",
+          "fecha": "ago-09",
+          "mes": 8,
+          "anio": 2009,
+          "organizador": "Instituto Superior Tecnologico Publico \"Luis E. Valcarcel\"\nCarrera Profesional de Computacion e Informatica",
+          "ciudad": "Ilo",
+          "pais": "Perú",
+          "cargo": "Ponente"
+        },
+        {
+          "evento": "Seminario \"IEEE, Plataforma de Desarrollo 2009\"",
+          "fecha": "jul-09",
+          "mes": 7,
+          "anio": 2009,
+          "organizador": "Universidad Nacional de Moquegua\nIEEE: Institute of Electrical and Electronics Engeneers",
+          "ciudad": "Ilo",
+          "pais": "Perú",
+          "cargo": "Organizador"
+        }
+      ]
+    },
+    {
+      "titulo": "Seminarios y Congresos",
+      "campos": [],
+      "tipo": "diccionario",
+      "value": [
+        {
+          "evento": "Seminario Ciencia de los Datos",
+          "fecha": "jun-17",
+          "mes": 6,
+          "anio": 2017,
+          "organizador": "Universidad Tecnol�gica de los Andes\nEscuela Profesional de Ingenier�a de Sistemas e Inform�tica",
+          "ciudad": "Abancay",
+          "pais": "Per�"
+        },
+        {
+          "evento": "XVI Congreso Internacional de Inform�tica y Sistemas",
+          "fecha": "nov-15",
+          "mes": 11,
+          "anio": 2015,
+          "organizador": "Universidad Nacional Jorge Basadre Grohmann\nEscuela Profesional de Ingenier�a en Inform�tica y Sistemas",
+          "ciudad": "Tacna",
+          "pais": "Per�"
+        },
+        {
+          "evento": "Seminario Taller \"Administraci�n y Gesti�n del Capital Humano en los Sectores P�blicos y Privados\"",
+          "fecha": "ago-15",
+          "mes": 8,
+          "anio": 2015,
+          "organizador": "Instituto Superior Tecnol�gico Publico \"Luis E. Valc�rcel\"\nCarrera Profesional de Secretariado Ejecutivo",
+          "ciudad": "Ilo",
+          "pais": "Per�"
+        },
+        {
+          "evento": "II Curso Taller de Filosof�a para la Vida",
+          "fecha": "jun-14",
+          "mes": 6,
+          "anio": 2014,
+          "organizador": "Universidad Nacional de Moquegua\nEscuela Profesional de Ingenier�a de Sistemas e Inform�tica",
+          "ciudad": "Ilo",
+          "pais": "Per�"
+        },
+        {
+          "evento": "XV Congreso Internacional de Inform�tica y Sistemas",
+          "fecha": "nov-09",
+          "mes": 11,
+          "anio": 2014,
+          "organizador": "Universidad Nacional Jorge Basadre Grohmann\nEscuela Profesional de Ingenier�a en Inform�tica y Sistemas",
+          "ciudad": "Tacna",
+          "pais": "Per�"
+        },
+        {
+          "evento": "II Congreso Regional de Estudiantes de Ingenier�a de Sistemas y Computaci�n\nXI Seminario Internacional de Inform�tica y Sistemas\nV Workshop",
+          "fecha": "oct-10",
+          "mes": 10,
+          "anio": 2010,
+          "organizador": "Universidad Nacional Jorge Basadre Grohmann\nEscuela Profesional de Ingenier�a en Inform�tica y Sistemas",
+          "ciudad": "Tacna",
+          "pais": "Per�"
+        },
+        {
+          "evento": "Seminario \"IEEE, Plataforma de Desarrollo 2009\"",
+          "fecha": "jul-09",
+          "mes": 7,
+          "anio": 2009,
+          "organizador": "Universidad Nacional de Moquegua\nIEEE: Institute of Electrical and Electronics Engeneers",
+          "ciudad": "Ilo",
+          "pais": "Per�"
+        },
+        {
+          "evento": "Curso Taller de Herramientas Inform�ticas y Redes Inal�mbricas",
+          "fecha": "feb-08",
+          "mes": 2,
+          "anio": 2008,
+          "organizador": "Instituto Superior Tecnol�gico Publico \"Luis E. Valc�rcel\"\nCarrera Profesional de Computaci�n e Inform�tica",
+          "ciudad": "Ilo",
+          "pais": "Per�"
+        },
+        {
+          "evento": "I Seminario de Inform�tica, Computaci�n y Sistemas",
+          "fecha": "dic-07",
+          "mes": 12,
+          "anio": 2007,
+          "organizador": "Instituto Superior Tecnol�gico Publico \"Luis E. Valc�rcel\"\nCarrera Profesional de Computaci�n e Inform�tica",
+          "ciudad": "Ilo",
+          "pais": "Per�"
+        },
+        {
+          "evento": "Seminario: Expo venta de Hardware 2006",
+          "fecha": "ago-06",
+          "mes": 8,
+          "anio": 2006,
+          "organizador": "Instituto Superior Tecnol�gico Publico \"Luis E. Valc�rcel\"\nCarrera Profesional de Computaci�n e Inform�tica",
+          "ciudad": "Ilo",
+          "pais": "Per�"
+        },
+        {
+          "evento": "III Congreso Internacional de Computaci�n, Sistemas y Nuevos Enfoques en Educaci�n Superior",
+          "fecha": "nov-06",
+          "mes": 11,
+          "anio": 2006,
+          "organizador": "Instituto Superior Tecnol�gico Publico \"Luis E. Valc�rcel\"\nCarrera Profesional de Computaci�n e Inform�tica",
+          "ciudad": "Ilo",
+          "pais": "Per�"
+        }
+      ]
+    },
+    {
+      "titulo": "Voluntariado",
+      "campos": [],
+      "tipo": "diccionario",
+      "value": [
+        {
+          "institucion": "Asociacion Civil TRANSPARENCIA",
+          "cargo": "Observador electoral en las Elecciones Regionales y Municipales 2018",
+          "fecha": "nov-18",
+          "mes": 11,
+          "anio": 2018,
+          "ciudad": "Ilo",
+          "pais": "Per�"
+        },
+        {
+          "institucion": "Universidad Nacional de Moquegua\nMunicipalidad Distrital de Pacocha",
+          "cargo": "Voluntario Capacitador en la \"Campa�a de Alfabetizacion Digital para Adultos Mayores en el Distrito de Pacocha\"",
+          "fecha": "dic-17",
+          "mes": 12,
+          "anio": 2017,
+          "ciudad": "Ilo",
+          "pais": "Per�"
+        },
+        {
+          "institucion": "Asociacion Civil TRANSPARENCIA",
+          "cargo": "Observador electoral en las Elecciones Generales 2016",
+          "fecha": "abr-16",
+          "mes": 4,
+          "anio": 2016,
+          "ciudad": "Ilo",
+          "pais": "Per�"
+        }
+      ]
+    },
+    {
+      "titulo": "Formacion Academica",
+      "campos": [],
+      "tipo": "diccionario",
+      "value": [
+        {
+          "tipo": "Primaria",
+          "anio_inicial": 1991,
+          "anio_final": 1996,
+          "institucion": "Institucion Educativa John F. Kennedy",
+          "especialidad": "",
+          "ciudad": "Ilo",
+          "pais": "Per�"
+        },
+        {
+          "tipo": "Secundaria",
+          "anio_inicial": 1997,
+          "anio_final": 2003,
+          "institucion": "Institucion Educativa Daniel Becerra Ocampo",
+          "especialidad": "",
+          "ciudad": "Ilo",
+          "pais": "Per�"
+        },
+        {
+          "tipo": "Superior",
+          "anio_inicial": 2005,
+          "anio_final": 2008,
+          "institucion": "Instituto Superior Tecnol�gico Publico \"Luis E. Valc�rcel\"",
+          "especialidad": "Computacion e Inform�tica",
+          "ciudad": "Ilo",
+          "pais": "Per�"
+        },
+        {
+          "tipo": "Superior",
+          "anio_inicial": 2014,
+          "anio_final": 2018,
+          "institucion": "Universidad Nacional de Moquegua",
+          "especialidad": "Ingenier�a de Sistemas e Inform�tica",
+          "ciudad": "Ilo",
+          "pais": "Per�"
+        }
+      ]
+    }
+  ]
+}
